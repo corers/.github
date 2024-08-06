@@ -1,3 +1,3 @@
-# un-rs
+# Core Rust
 
 All in Rust
